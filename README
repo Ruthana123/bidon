@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Valentine's Day</title>
+    <meta charset="UTF-8">
+    <style>
+    body {
+      background-color: pink;
+      }
+      h1 {
+        color: white;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>10 Bset valentine's Day Marketing campaigns & ideas.</h1>
+      <ul>
+        <li>Create an interactive social campaign.</li>
+        <li>Use SMS to offer customers exclusive savings</li>
+        <li>Create a social media contest to drive engagement</li>
+        <li>Use UGC for cross-channel <strong>marketing</strong></li>
+        <li>Tap into consumer emotions with heartwarming</li>
+      </ul>
+    <h1>HAPPY VALENTINE'S DAY CUSTOMMERS</h1>
+  </body>
+</html>
